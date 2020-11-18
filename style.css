@@ -1,0 +1,53 @@
+body
+{
+  color: white;
+  background: #d770ff;
+  font-family: 'Fascinate', cursive;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 5px dotted white;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading {
+  font-size: 18px;
+  border-radius: 20px;
+  letter-spacing: 10px;
+  background-color: plum;
+}
+
+label {
+  font-size: 14px;
+  color: purple;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+#btttn {
+  box-shadow: 5px 5px 18px violet;
+  background: plum;
+}
+
+#dic1, #dic2 {
+  background: #7600a3;
+  box-shadow: 5px 5px 50px white;
+}
